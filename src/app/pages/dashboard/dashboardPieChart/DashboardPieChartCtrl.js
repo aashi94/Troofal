@@ -16,16 +16,21 @@
       description: 'All Courses',
       stats: '20',
       icon: 'face',
+      link: '#/courses/allCourses'
     }, {
       color: pieColor,
       description: 'All Videos',
       stats: '145',
       icon: 'money',
+      link: '#/videos/allVideos'
+
     }, {
       color: pieColor,
       description: 'Total Users',
-      stats: '9999',
+      stats: '8,391',
       icon: 'person',
+      link: '#/users'
+
     }
     //  {
     //   color: pieColor,
