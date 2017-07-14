@@ -24,7 +24,7 @@
     }, {
       color: pieColor,
       description: 'Total Users',
-      stats: '8,391',
+      stats: '9999',
       icon: 'person',
     }
     //  {
