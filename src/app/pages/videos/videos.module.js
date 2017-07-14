@@ -17,7 +17,7 @@
           abstract: true,
           title: 'Videos',
           sidebarMeta: {
-            icon: 'ion-gear-a',
+            icon: 'ion-videocamera',
             order: 800,
           },
         });
