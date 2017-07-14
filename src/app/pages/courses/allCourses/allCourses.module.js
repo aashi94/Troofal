@@ -9,7 +9,7 @@
     $stateProvider
         .state('courses.allCourses', {
           url: '/allCourses',
-          templateUrl: 'BlurAdmin.pages.courses.allCourses.allCourses.html',
+          templateUrl: 'app/pages/courses/allCourses/allCourses.html',
           title: 'All Courses',
           sidebarMeta: {
             //icon: 'ion-compose',
