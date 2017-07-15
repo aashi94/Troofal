@@ -9,7 +9,7 @@
     $stateProvider
         .state('reset_password', {
           url: '/reset_password',
-          templateUrl: 'app/pages/profile/profile.html',
+          templateUrl: 'app/pages/reset_password/reset_password.html',
           title: 'Reset Password',
           sidebarMeta: {
             icon: 'ion-compose',
