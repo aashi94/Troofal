@@ -11,6 +11,7 @@
     'BlurAdmin.pages.dashboard',
     'BlurAdmin.pages.courses',
     'BlurAdmin.pages.videos',
+     'BlurAdmin.pages.users',
     'BlurAdmin.pages.reset_password',
     // 'BlurAdmin.pages.ui',
     // 'BlurAdmin.pages.form',
